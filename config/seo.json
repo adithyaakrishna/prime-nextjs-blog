@@ -1,0 +1,19 @@
+{
+  "siteMetadata": {
+    "title": "My Blog 📕",
+    "author": {
+      "name": "Adithya Krishna",
+      "summary": "🚀"
+    },
+    "description": "A blog created with Next.js and Tailwind.css",
+    "siteUrl": "https://adithyaakrishna.github.io/prime-nextjs-blog",
+    "language": "en-US",
+    "social": {
+      "facebook": "adiiikris",
+      "github": "adithyaakrishna",
+      "instagram": "adiiikris",
+      "linkedin": "adiiikris",
+      "twitter": "adii_kris"
+    }
+  }
+}

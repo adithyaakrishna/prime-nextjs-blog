@@ -1,0 +1,15 @@
+a:hover {
+  @apply underline;
+}
+
+span,
+p {
+  @apply font-light;
+}
+.inner1 {
+   float:left; 
+}
+.inner2{
+   float:left; 
+   clear: left;
+}

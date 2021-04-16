@@ -1,0 +1,11 @@
+{
+    "blogIcons":{
+        "socialIcons": {
+            "facebook": "../public/icons/facebook.svg",
+            "github": "../public/icons/github.svg",
+            "instagram": "../public/icons/instagram.svg",
+            "linkedin": "../public/icons/linkedin.svg",
+            "twitter": "../../../public/icons/twitter.svg"
+        }
+    }
+}
